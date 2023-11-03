@@ -26,7 +26,7 @@ function App() {
           step={1}
         />
         <button type="submit" className="btn">
-          submit
+          generate
         </button>
       </form>
       <div className="results">
